@@ -1,6 +1,6 @@
 # Hisaab – Digital Udhar Khata
 
-**Live app:** https://hisaab-zeta-two.vercel.app · **Try with sample date:** https://hisaab-zeta-two.vercel.app/?today=2026-11-15
+**Live app:** https://hisaab-girinandita.vercel.app · **Guided tour:** https://hisaab-girinandita.vercel.app/?tour=1 · **Sample date:** https://hisaab-girinandita.vercel.app/?today=2026-11-15
 
 Hisaab is a simple, mobile-first credit ledger (udhar khata) for Indian kirana, grocery, stationery and general stores. It replaces the paper notebook: add customers, write down goods given on credit, record payments (with an optional UPI screenshot), see who owes what, and send a polite WhatsApp reminder in one tap.
 
